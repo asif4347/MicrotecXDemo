@@ -17,5 +17,9 @@ namespace DeploymentDemo.Controllers
         {
             return View();
         }
+        public ActionResult FeedBack()
+        {
+            return View();
+        }
     }
 }
